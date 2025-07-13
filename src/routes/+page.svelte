@@ -153,7 +153,7 @@
       <!-- <p>Reach us at <i>info@bsrsec.com</i></p> -->
       <div class="container">
         <p class="section3-text">If you have any questions, want to assess your environment, or just want to chat about potential risks — we're here to help.</p>
-        <a href="mailto:contact@yourdomain.com" class="email-link">contact@bsrsec.com</a>
+        <a href="mailto:contact@bsrsec.com" class="email-link">contact@bsrsec.com</a>
         
       </div>
       <!-- <img src="rat.svg" alt="Hero Logo" style="transition: transform 0.3s ease; width: 150px; height: auto; margin-top: 10rem;" /> -->
